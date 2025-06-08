@@ -80,7 +80,7 @@
           <a href="adminSignOut.php" class="link-light text-decoration-none opacity-50">
             <li class="sidebar-list-item">
               <span class="material-icons-outlined">poll</span> Sign Out
-            </ul>
+            </li>
           </a>
         </li>
       </aside>
